@@ -15,4 +15,5 @@ Grape delivers mainnet-ready primitives for reputation, verification, access con
 We welcome issues and pull requests across all Grape repositories.
 
 ## Community
+- Discord: https://discord.gg/xrxrCmvB
 - GitHub: https://github.com/Grape-Labs
