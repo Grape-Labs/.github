@@ -1,4 +1,4 @@
-# Grape Labs
+# Grape
 
 Building infrastructure and experiences for web3 communities.
 
@@ -11,7 +11,7 @@ Building infrastructure and experiences for web3 communities.
 6. **Governance UI**
 
 ## Contributing
-We welcome issues and pull requests across all Grape Labs repositories.
+We welcome issues and pull requests across all Grape repositories.
 
 ## Community
 - GitHub: https://github.com/Grape-Labs
