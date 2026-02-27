@@ -9,6 +9,7 @@ Building infrastructure and experiences for web3 communities.
 4. **Grape Hub/Identity**
 5. **Grape Merkle Distribution**
 6. **Governance UI**
+7. **GSPL**
 
 ## Contributing
 We welcome issues and pull requests across all Grape repositories.
