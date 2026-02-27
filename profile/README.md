@@ -1,6 +1,6 @@
 # Grape
 
-Building infrastructure and experiences for web3 communities.
+Grape delivers mainnet-ready primitives for reputation, verification, access control, and DAO governance so communities can coordinate, reward, and scale on Solana.
 
 ## Core Products 
 1. **OG Reputation Spaces**
